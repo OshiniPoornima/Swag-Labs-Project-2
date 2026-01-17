@@ -47,5 +47,5 @@ This project demonstrates my ability to perform smart manual testing using profe
 
 ---
 
-**Date Completed:** [January 16, 2026]
-**Tester:** [Oshini Poornima]
+**Date Completed:** January 16, 2026
+**Tester:** Oshini Poornima
